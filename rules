@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Правила сервера Minecraft</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    h1 { color: #2e7d32; }
+    h2 { color: #1565c0; border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+    .toc a { display: block; margin: 6px 0; text-decoration: none; color: #1976d2; }
+    pre { background: #f5f5f5; padding: 10px; border-radius: 4px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>Правила сервера</h1>
+  <p>Версия правил: 1.2 (обновлено 26.08.2026)</p>
+
+  <h2>Оглавление</h2>
+  <div class="toc">
+    <a href="#general">1. Общие положения</a>
+    <a href="#chat">2. Чат и общение</a>
+    <a href="#build">3. Строительство и приваты</a>
+    <a href="#cheat">4. Читерство и эксплойты</a>
+    <a href="#punish">5. Наказания</a>
+  </div>
+
+  <h2 id="general">1. Общие положения</h2>
+  <p>Подключаясь к серверу, игрок автоматически подтверждает, что ознакомлен с правилами и обязуется их соблюдать.</p>
+
+  <h2 id="chat">2. Чат и общение</h2>
+  <p>Запрещён токсичный язык, оскорбления, дискриминация, реклама и флуд.</p>
+  <p>Пример команды для мута (через плагин):</p>
+  <pre>/mute &lt;игрок&gt; &lt;время&gt; &lt;причина&gt;</pre>
+
+  <h2 id="build">3. Строительство и приваты</h2>
+  <p>Приваты оформляются через регион-плагин (WorldGuard/Lands). Запрещено гриферство и разрушение чужих построек.</p>
+
+  <h2 id="cheat">4. Читерство и эксплойты</h2>
+  <p>Использование читов, X‑Ray, автокликеров, дюпов и багов строго запрещено.</p>
+
+  <h2 id="punish">5. Наказания</h2>
+  <p>Система наказаний: предупреждение → мут → бан (временный/перманентный). Администрация вправе выбирать меру наказания по ситуации.</p>
+</body>
+</html>
